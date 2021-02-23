@@ -1,2 +1,3 @@
 # MachineLearningStanford
-Coursera MOOC for Machine Learning by Andrew Ng
+Coursera Machine Learning MOOC by Andrew Ng
+Completed Programming assignments for the entire course
